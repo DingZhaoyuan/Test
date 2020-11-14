@@ -4,10 +4,14 @@
 import
 '''
 
+<<<<<<< HEAD
 
 
 
 
 
 
-new query action
+new query actionnew query action
+=======
+new delete action
+>>>>>>> delete
